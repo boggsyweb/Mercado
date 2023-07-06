@@ -13,9 +13,9 @@ document.getElementById('burger-bar').classList.remove ('change')
 })
 
 // controls desktop nav bar //
-let prevScrollpos = window.pageYOffset
+let prevScrollpos = window.scrollY
 window.onscroll = function() {
-let currentScrollPos = window.pageYOffset
+let currentScrollPos = window.scrollY
 if (prevScrollpos > currentScrollPos) {
 document.getElementById("desktop-menu").style.top = "0"
 } else {
