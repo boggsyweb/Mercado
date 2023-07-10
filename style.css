@@ -151,7 +151,7 @@ li {
     text-align: right;
     padding: 1.8em 1em 0 1em;
     color: #F0F7F9;
-    background-image: url("images/veg.png");
+    background-image: url("images/veg.webp");
     background-size: cover;
     background-position: center;  
     min-height: 100vh;
@@ -300,7 +300,7 @@ footer {
     justify-content: space-between;
     flex-direction: row-reverse;
     align-items: flex-end;
-    background-image: url('images/ground.png');
+    background-image: url('images/ground.webp');
     background-size: cover;
     padding: .5em;
 }
