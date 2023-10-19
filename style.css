@@ -302,10 +302,10 @@ footer {
     align-items: flex-end;
     background-image: url('images/ground.webp');
     background-size: cover;
-    padding: .5em;
+    padding: .5em 1em;
 }
 #bomlogo {
-    width: 70%;
+    width: 60%;
     padding-left: 5em;
 }
 #setubal-logo {
